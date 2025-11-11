@@ -1,0 +1,264 @@
+{
+  "male_poses": [
+    {
+      "id": "male_pose_01",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male1.jpg"
+    },
+    {
+      "id": "male_pose_02",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male2.jpg"
+    },
+    {
+      "id": "male_pose_03",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male3.jpg"
+    },
+    {
+      "id": "male_pose_04",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male4.jpg"
+    },
+    {
+      "id": "male_pose_05",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male5.jpg"
+    },
+    {
+      "id": "male_pose_06",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male6.jpg"
+    },
+    {
+      "id": "male_pose_07",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male7.jpg"
+    },
+    {
+      "id": "male_pose_08",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male8.jpg"
+    },
+    {
+      "id": "male_pose_09",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male9.jpg"
+    },
+    {
+      "id": "male_pose_10",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male10.jpg"
+    },
+    {
+      "id": "male_pose_11",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male11.jpg"
+    },
+    {
+      "id": "male_pose_12",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male12.jpg"
+    },
+    {
+      "id": "male_pose_13",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male13.jpg"
+    },
+    {
+      "id": "male_pose_14",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male14.jpg"
+    },
+    {
+      "id": "male_pose_15",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male15.jpg"
+    },
+    {
+      "id": "male_pose_16",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male16.jpg"
+    },
+    {
+      "id": "male_pose_17",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male17.jpg"
+    },
+    {
+      "id": "male_pose_18",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male18.jpg"
+    },
+    {
+      "id": "male_pose_19",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male19.jpg"
+    },
+    {
+      "id": "male_pose_20",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male20.jpg"
+    },
+    {
+      "id": "male_pose_21",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male21.jpg"
+    },
+    {
+      "id": "male_pose_22",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male22.jpg"
+    },
+    {
+      "id": "male_pose_23",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male23.jpg"
+    },
+    {
+      "id": "male_pose_24",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male24.jpg"
+    },
+    {
+      "id": "male_pose_25",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male25.jpg"
+    },
+    {
+      "id": "male_pose_26",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male26.jpg"
+    },
+    {
+      "id": "male_pose_27",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male27.jpg"
+    },
+    {
+      "id": "male_pose_28",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male28.jpg"
+    },
+    {
+      "id": "male_pose_29",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male29.jpg"
+    },
+    {
+      "id": "male_pose_30",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male30.jpg"
+    },
+    {
+      "id": "male_pose_31",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male31.jpg"
+    },
+    {
+      "id": "male_pose_32",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male32.jpg"
+    },
+    {
+      "id": "male_pose_33",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male33.jpg"
+    },
+    {
+      "id": "male_pose_34",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male34.jpg"
+    },
+    {
+      "id": "male_pose_35",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male35.jpg"
+    },
+    {
+      "id": "male_pose_36",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male36.jpg"
+    },
+    {
+      "id": "male_pose_37",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male37.jpg"
+    },
+    {
+      "id": "male_pose_38",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male38.jpg"
+    },
+    {
+      "id": "male_pose_39",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male39.jpg"
+    },
+    {
+      "id": "male_pose_40",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male40.jpg"
+    },
+    {
+      "id": "male_pose_41",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male41.jpg"
+    },
+    {
+      "id": "male_pose_42",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male42.jpg"
+    },
+    {
+      "id": "male_pose_43",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male43.jpg"
+    },
+    {
+      "id": "male_pose_44",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male44.jpg"
+    },
+    {
+      "id": "male_pose_45",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male45.jpg"
+    },
+    {
+      "id": "male_pose_46",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male46.jpg"
+    },
+    {
+      "id": "male_pose_47",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male47.jpg"
+    },
+    {
+      "id": "male_pose_48",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male48.jpg"
+    },
+    {
+      "id": "male_pose_49",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male49.jpg"
+    },
+    {
+      "id": "male_pose_50",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male50.jpg"
+    },
+    {
+      "id": "male_pose_51",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male51.jpg"
+    },
+    {
+      "id": "male_pose_52",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male52.jpg"
+    },
+    {
+      "id": "male_pose_53",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male53.jpg"
+    },
+    {
+      "id": "male_pose_54",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male54.jpg"
+    },
+    {
+      "id": "male_pose_55",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male55.jpg"
+    },
+    {
+      "id": "male_pose_56",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male56.jpg"
+    },
+    {
+      "id": "male_pose_57",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male57.jpg"
+    },
+    {
+      "id": "male_pose_58",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male58.jpg"
+    },
+    {
+      "id": "male_pose_59",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male59.jpg"
+    },
+    {
+      "id": "male_pose_60",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male60.jpg"
+    },
+    {
+      "id": "male_pose_61",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male61.jpg"
+    },
+    {
+      "id": "male_pose_62",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male62.jpg"
+    },
+    {
+      "id": "male_pose_63",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male63.jpg"
+    },
+    {
+      "id": "male_pose_64",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male64.jpg"
+    },
+    {
+      "id": "male_pose_65",
+      "url": "https://raw.githubusercontent.com/DrStrangeVN/3D-ICON/refs/heads/main/male65.jpg"
+    }
+  ]
+}
